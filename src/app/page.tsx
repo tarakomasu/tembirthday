@@ -1,10 +1,10 @@
 export default function Home() {
   const images = [
-    "/まにゃへ.png",
-    "/名古屋！.png",
-    "/グラン.png",
-    "/熱海！.png",
-    "/八丈島！！.png",
+    "/letter-1.png",
+    "/nagoya.png",
+    "/glamping.png",
+    "/atami.png",
+    "/hachijojima.png",
   ];
 
   return (
