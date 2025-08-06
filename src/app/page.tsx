@@ -2,7 +2,7 @@ export default function Home() {
   const images = [
     "/まにゃへ.png",
     "/名古屋！.png",
-    "/グランピング！！.png",
+    "/グラン.png",
     "/熱海！.png",
     "/八丈島！！.png",
   ];
